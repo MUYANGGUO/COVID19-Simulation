@@ -1,3 +1,14 @@
+###possible output format
+*.txt
+
+
+# system
+*.DS_Store
+*_MACOSX
+*.vscode
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
