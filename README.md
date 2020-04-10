@@ -1,4 +1,4 @@
-## COVID-19 Outbreaks Analysis and Simulation by a extended SEIR Model
+## COVID-19 Outbreaks Simulation and Analysis by an Extended SEIR Model
 
 >Georgia Tech CSE6730 Project-2
 
