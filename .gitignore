@@ -1,6 +1,6 @@
 ###possible output format
 *.txt
-
+Models_Notebooks/ca_outputs/
 
 # system
 *.DS_Store
