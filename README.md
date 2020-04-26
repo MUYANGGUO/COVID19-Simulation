@@ -13,13 +13,17 @@ Since the first coronavirus (COVID-19) outbreaks in Wuhan, China, the COVID-19 v
 Groups of scientists in China, German claimed that people who are infected but do not have symptoms, or have not yet developed symptoms, can also infect others. This transmission pattern distinct among other epidemic transmission patterns such as SARS or MERS. Traditional models such as SIR or SEIR may not describe the spread correctly. Thus, an extended SEIR model was proposed and analyzed in this project paper to address the asymtomatic transmission during the incubation period.
 ODE, cellular automata and Markov Chain are the three approaches being used to deploy the conceptual models. The simulated results are collected, and analyzed. Real world data is also used to validate the prediction models. 
 
+#### Modified SEIR
+
+![SEIR](README_figs/phasechange.png)
+
 ### Github Repo
 
 Project Github Repo: https://github.gatech.edu/mguo34/COVID-19-Simulation
 
 ### Authors
 
-- Muyang Guo , cellular automata model
+- Muyang Guo , Cellular Automata model
 
 - Dayu Zhu , ODE model
 
@@ -29,13 +33,14 @@ Project Github Repo: https://github.gatech.edu/mguo34/COVID-19-Simulation
 ### Models
 
 
-Part 1 ODE model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-1-ODE.ipynb
+Part 1 ODE model: <br>
+https://github.gatech.edu/mguo34/COVID-19-Simulation/blob/master/Models_Notebooks/PART-1-ODE.ipynb
 
+Part 2 Cellular Automata Model: <br>
+https://github.gatech.edu/mguo34/COVID-19-Simulation/blob/master/Models_Notebooks/PART-2-CA.ipynb
 
-Part 2 Cellular Automata Model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-2-CA.ipynb
-
-
-Part 3 Markov Chain Model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-3-MarkovChain.ipynb
+Part 3 Markov Chain Model: <br>
+https://github.gatech.edu/mguo34/COVID-19-Simulation/blob/master/Models_Notebooks/PART-3-MarkovChain.ipynb
 
 
 
