@@ -1,6 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-
 ## COVID-19 Outbreaks Simulation and Analysis by an Extended SEIR Model
 
 >Georgia Tech CSE6730 Project-2
@@ -32,13 +29,13 @@ Project Github Repo: https://github.gatech.edu/mguo34/COVID-19-Simulation
 ### Models
 
 
-Part 1 ODE model: 
+Part 1 ODE model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-1-ODE.ipynb
 
 
-Part 2 Cellular Automata Model: 
+Part 2 Cellular Automata Model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-2-CA.ipynb
 
 
-Part 3 Markov Chain Model: 
+Part 3 Markov Chain Model: https://github.gatech.edu/mguo34/COVID-19-Simulation/Models_Notebooks/PART-3-MarkovChain.ipynb
 
 
 
