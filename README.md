@@ -14,11 +14,8 @@ Groups of scientists in China, German claimed that people who are infected but d
 ODE, cellular automata and Markov Chain are the three approaches being used to deploy the conceptual models. The simulated results are collected, and analyzed. Real world data is also used to validate the prediction models. 
 
 ##### Modified SEIR
-
 ![SEIR](README_figs/phasechange.png)
-
-##### Modified Infectious Pattern
-
+##### Modified Infectious Pattern (CA model as an example)
 ![SEIR](README_figs/infectiouspattern.png)
 
 ### Github Repo
