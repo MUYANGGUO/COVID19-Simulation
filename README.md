@@ -13,9 +13,13 @@ Since the first coronavirus (COVID-19) outbreaks in Wuhan, China, the COVID-19 v
 Groups of scientists in China, German claimed that people who are infected but do not have symptoms, or have not yet developed symptoms, can also infect others. This transmission pattern distinct among other epidemic transmission patterns such as SARS or MERS. Traditional models such as SIR or SEIR may not describe the spread correctly. Thus, an extended SEIR model was proposed and analyzed in this project paper to address the asymtomatic transmission during the incubation period.
 ODE, cellular automata and Markov Chain are the three approaches being used to deploy the conceptual models. The simulated results are collected, and analyzed. Real world data is also used to validate the prediction models. 
 
-#### Modified SEIR
+##### Modified SEIR
 
 ![SEIR](README_figs/phasechange.png)
+
+##### Modified Infectious Pattern
+
+![SEIR](README_figs/infectiouspattern.png)
 
 ### Github Repo
 
