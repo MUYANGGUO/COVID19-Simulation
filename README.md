@@ -6,6 +6,7 @@
 
 [![Buildwithpython](https://img.shields.io/badge/Build--With--Python3-9cf?style=for-the-badge&logo=Python)](https://www.python.org/)
 
+
 ### Abstract
 
 Since the first coronavirus (COVID-19) outbreaks in Wuhan, China, the COVID-19 viral disease has swept into at least 184 countries and killed more than 94,000 people.The US has become a new "center" of the outbreaks as the number of confirmed cases climbed over 450000 and the number of death reached to 16000 by 9th April 2020. It is crucial for the public to understand the transmission pattern of the disease and to take proper measures accordingly. 
@@ -18,17 +19,18 @@ ODE, cellular automata and Markov Chain are the three approaches being used to d
 ##### Modified Infectious Pattern (CA model as an example)
 ![SEIR](README_figs/infectiouspattern.png)
 
+
 ### Github Repo
 
 Project Github Repo: https://github.gatech.edu/mguo34/COVID-19-Simulation
 
-### Authors
+### Authors , Contributions
 
 - Muyang Guo , Cellular Automata model
 
 - Dayu Zhu , ODE model
 
-- Yibo Wang, Markov Chain Model
+- Yibo Wang , Markov Chain Model
 
 
 ### Models
